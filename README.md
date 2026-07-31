@@ -103,19 +103,6 @@ Native Android application built using Kotlin.
 * 2D Game Development
 * Gameplay Programming
 * UI Systems
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=sariefe\&theme=tokyonight\&show_icons=true\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sariefe\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
 ---
 
 # 🔥 GitHub Streak
@@ -135,18 +122,6 @@ Native Android application built using Kotlin.
 ![](https://github-readme-activity-graph.vercel.app/graph?username=sariefe\&theme=tokyo-night\&hide_border=true)
 
 </div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=sariefe\&theme=tokyonight\&no-frame=true\&row=2\&column=4)
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
