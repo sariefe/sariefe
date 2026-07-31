@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Efe+Sari;Android+Developer;Kotlin+%7C+Jetpack+Compose;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
 <div align="center">
 
 # Hi 👋 I'm Efe Sarı
