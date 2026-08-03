@@ -47,7 +47,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle"/>
 
 </p>
 
