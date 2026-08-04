@@ -107,16 +107,7 @@ Native Android application built using Kotlin.
 * 2D Game Development
 * Gameplay Programming
 * UI Systems
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-![](https://streak-stats.demolab.com?user=sariefe\&theme=tokyonight\&hide_border=true)
-
-</div>
-
+  
 ---
 
 # 📈 Contribution Graph
